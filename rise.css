@@ -1,0 +1,18 @@
+.rise-enabled {
+    background-color: #ffffff !important;
+    font-size: 70%;
+}
+
+.question {
+    color: #008;   
+}
+
+.your_turn {
+    color: #e08414;
+    font-size: 70%;
+    font-weight: bold;
+}
+
+.reveal {
+    font-size: 70%;
+}
