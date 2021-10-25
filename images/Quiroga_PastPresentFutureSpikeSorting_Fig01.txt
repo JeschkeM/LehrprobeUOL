@@ -1,1 +1,0 @@
-From raw data to neuronal spike trains.
